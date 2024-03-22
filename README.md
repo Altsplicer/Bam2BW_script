@@ -2,7 +2,7 @@
 
 Script [LINK](https://github.com/Altsplicer/STAR_alignment_script/blob/main/bash/STAR_align.sub)
 
-[![.img/fig1.png](.img/fig1.png)](#nolink)
+[![.img/fig1.jpg](.img/fig1.jpg)](#nolink)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # [Franco](https://github.com/altsplicer) / [***BAM to Bigwig***]
 
-Script [LINK](https://github.com/Altsplicer/STAR_alignment_script/blob/main/bash/STAR_align.sub)
+Script [LINK](https://github.com/Altsplicer/Bam2BW_script/blob/main/bash/Bam2BW.sub)
 
 [![.img/fig1.jpg](.img/fig1.jpg)](#nolink)
 

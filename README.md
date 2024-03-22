@@ -1,4 +1,4 @@
-# [Franco](https://github.com/altsplicer) / [***STAR alignment***]
+# [Franco](https://github.com/altsplicer) / [***BAM to Bigwig***]
 
 Script [LINK](https://github.com/Altsplicer/STAR_alignment_script/blob/main/bash/STAR_align.sub)
 
